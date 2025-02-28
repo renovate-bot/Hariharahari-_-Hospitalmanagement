@@ -7,9 +7,6 @@ Youtube :youtube.com/lazycoders
 
 """
 
-
-
-
 from django.contrib import admin
 from django.urls import path
 from hospital import views
